@@ -26,3 +26,5 @@ Runner run test every saves
 ```
 ./test_runner.sh
 ```
+
+![run command api test](https://pceuropa.net/blog/wp-content/uploads/2018/12/test-api.png "Terminal example")
