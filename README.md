@@ -1,4 +1,4 @@
-# testing-rest-api
+# A command-line tool based on python3 and pytest for testing of RESTful APIs.
 Tool to tests API endpoints 
 
 REQUIREMENTS
