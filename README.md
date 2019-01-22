@@ -2,7 +2,8 @@
 A command-line tool based on python3 and pytest for testing of RESTful APIs. 
 
 
-REQUIREMENTS
+
+Requirements
 ------------
 Python 3.6+
 pytest
